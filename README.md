@@ -1,3 +1,11 @@
+---
+
+# Exemplo
+
+Veja o exemplo funcionando:
+
+https://svelte.dev/repl/b2529a8a7d4e4996be3f50a456d911a6?version=3.31.2
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
